@@ -1,0 +1,9 @@
+<metadata>
+  <groupId>net.sf.jsfcomp.ext</groupId>
+  <artifactId>jsfExt</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9</version>
+    </versions>
+  </versioning>
+</metadata>
